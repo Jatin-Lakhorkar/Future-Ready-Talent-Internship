@@ -17,7 +17,8 @@ I have scraped only two website which is based on e-commerce and can only answer
 1.<a href="https://hytest.fi/information/online-store-faq">Hytest online-store-faq</a></br>
 2.<a href="https://www.croma.com/faq">Croma FaQs</a>
 <h4><a href="https://www.awesomescreenshot.com/video/10208924?key=2d853e7f402ca2fdb5b985e21e95cb96">Video Link </a></h4>
+
 # How to Use
-Step I-->visit to Website
-Step II-->Click on chat with us
-Step III-->Ask any Question from QnA Maker Knowledge Base chat with Bot.
+Step I-->visit to Website.</br>
+Step II-->Click on chat with us.</br>
+Step III-->Ask any Question from QnA Maker Knowledge Base chat with Bot.</br>
