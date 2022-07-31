@@ -4,7 +4,7 @@ Web Technologies used: HTML, CSS, JS
 
 IDE: VS-Code
 
-Note: Bot is deployed on FAQ page
+Note: Bot is deployed on index.html (FAQ page)
 
 # Industry:
 Lifestyle
