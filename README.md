@@ -1,15 +1,27 @@
-# Industry:Lifestyle
+This is a 1 Page E-commerce FAQ Front End website design
 
-Project Title : ChatBot
+Web Technologies used: HTML, CSS, JS
 
-Problem Statement/Opportunity: Replacing normal chat with ChatBot.
+IDE: VS-Code
 
-Project Description: In any online websites, for any product employees can not always provide customer support for some basic questions which can always be same instead of employees, we will use chatbots and when customer want to communicate on phone it will be redirected to the customer support.This gives employees time to focus on more important tasks and prevents customers from waiting to receive responses
+Note: Bot is deployed on FAQ page
+
+# Industry:
+Lifestyle
+
+# Project Title : 
+ ChatBot
+
+# Problem Statement/Opportunity:
+ Replacing normal chat with ChatBot.
+
+# Project Description: 
+In any online websites, for any product employees can not always provide customer support for some basic questions which can always be same instead of employees, we will use chatbots and when customer want to communicate on phone it will be redirected to the customer support.This gives employees time to focus on more important tasks and prevents customers from waiting to receive responses
 
 # Primary Azure Technologies Used 
-<a href="https://www.qnamaker.ai">1).QnA Maker</a></br>
-<a href="https://azure.microsoft.com/en-us/services/bot-services/">2).Azzure Bot Services</a></br>
-<a href="https://zealous-island-037e6d310.1.azurestaticapps.net">3).Static Web Apps</a></br>
+1).QnA Maker</br>
+2).Azure Bot Services</br>
+3).Static Web Apps</br>
 
 # FaQ ChatBot
 This is <b>FaQ website</b> which answers only basic questions stored in Knowledge base.</br>
