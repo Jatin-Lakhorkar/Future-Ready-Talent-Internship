@@ -29,7 +29,8 @@ I have scraped only two website which is based on e-commerce and can only answer
 2.<a href="https://www.croma.com/faq">Croma FaQs</a>
 <h4><a href="https://www.awesomescreenshot.com/video/10244688?key=7366b6e4509c2fdfb04fe621f18fd754">Video Link </a></h4>
 
+<h3>Project Screenshot</h3>
+<img src="Screenshot (742).png">
 
-
-
-
+<h3>Microsoft Azure Services </h3>
+<img src="Screenshot (741).jpg">
