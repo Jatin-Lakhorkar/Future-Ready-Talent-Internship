@@ -33,4 +33,4 @@ I have scraped only two website which is based on e-commerce and can only answer
 <img src="Screenshot (742).png">
 
 <h3>Microsoft Azure Services </h3>
-<img src="Screenshot (741).jpg">
+<img src="Screenshot (741).png">
