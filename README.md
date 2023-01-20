@@ -1,5 +1,3 @@
-This is a 1 Page E-commerce FAQ Front End website design
-
 Web Technologies used: HTML, CSS, JS
 
 IDE: VS-Code
